@@ -4,7 +4,10 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    
+    <!-- CSS-->
+    <link href="{{ asset ('/css/style.css') }}" type="text/css" rel="stylesheet">
+    
     <!-- Bootstrap CSS -->
     <link href="{{ asset ('/css/bootstrap.min.css') }}" rel="stylesheet">
   </head>
